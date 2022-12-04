@@ -18,7 +18,7 @@ pickle-mixin==1.0.2
 pickleshare==0.7.5
 regex==2022.8.17
 scikit-learn==1.0.2
-scipy==1.9.1
+scipy==1.7.3
 seaborn==0.11.2
 six==1.16.0
 sklearn==1.7.3
